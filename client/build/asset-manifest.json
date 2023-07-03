@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98020489.css",
+    "main.js": "/static/js/main.e23c7c53.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/dogLogoCropped.jpg": "/static/media/dogLogoCropped.4ae108cb480e55932ec7.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.a56a02ceee19b1679613.jpg",
+    "static/media/banner1.webp": "/static/media/banner1.c87846731082907adae6.webp",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/Logo.svg": "/static/media/Logo.228f892e29d66c74912f68919e5544b7.svg",
+    "index.html": "/index.html",
+    "main.98020489.css.map": "/static/css/main.98020489.css.map",
+    "main.e23c7c53.js.map": "/static/js/main.e23c7c53.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98020489.css",
+    "static/js/main.e23c7c53.js"
+  ]
+}
